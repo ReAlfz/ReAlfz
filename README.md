@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is **alfian rudiyanto**.\
-I am currently studying at Muhammadiyah Malang University.
+I am currently studying at Muhammadiyah Malang University.\
 Now have followed the Bangkit program
 
 <!--
