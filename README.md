@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Introduce my name **alfian rudiyanto**.\
+My name is **alfian rudiyanto**.\
 I am currently studying at Muhammadiyah Malang University.
 Now have followed the Bangkit program
 
