@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Introduce my name **alfian rudiyanto**.\
+I am currently studying at Muhammadiyah Malang University.
+Now have followed the Bangkit program
+
 <!--
 **ReAlfz/ReAlfz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
